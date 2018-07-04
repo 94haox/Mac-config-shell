@@ -29,7 +29,7 @@ node.js
 
 #### wget 
 万能扒站，下载工具  
-功能很强大，具体可以看![官网](http://www.gnu.org/software/wget/)
+功能很强大，具体可以看[官网](http://www.gnu.org/software/wget/)
 
 #### tree
 
