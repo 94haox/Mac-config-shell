@@ -6,11 +6,16 @@
 # oh my zsh 搭配 iterm2 
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
-# 开发工具
+# 版本控制
 brew install git
+
+# node.js
 brew install node@8
+
+# 万能扒站工具
 brew install wget
-brew install ack
+
+# 命令行文件目录增强
 brew install tree
 
 # 配置 autojump 
