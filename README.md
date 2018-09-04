@@ -50,7 +50,7 @@ node.js
   j user // 跳转到包含 user 文件夹的目录
 ```
 
-#### ~~ shadowsocksx-ng ~~ 
+#### ~~shadowsocksx-ng~~ 
 
 ~~这个不用说了，爱国必备~~
 这一步需要在运行脚本之前安装，并且在终端中配置好代理
