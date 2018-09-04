@@ -23,9 +23,6 @@ brew install autojump
 echo '[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh' >> ~/.zshrc
 source ~/.zshrc
 
-# 爱国
-brew cask install shadowsocksx-ng
-
 # 终端工具
 brew cask install iterm2
 
