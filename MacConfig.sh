@@ -42,6 +42,12 @@ brew cask install sourcetree
 # 安装微信
 brew cask install wechat
 
+# 安装 dozer ->状态栏图标隐藏软件
+brew cask install https://raw.githubusercontent.com/Mortennn/Dozer/master/dozer.rb
+
+#安装 fiscript -> 双击菜单增强
+brew cask install https://raw.githubusercontent.com/Mortennn/FiScript/master/fiscript.rb
+
 # ssh-keygen 公钥
 ssh-keygen 
 cat ~/.ssh/id_rsa.pub
